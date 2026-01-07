@@ -1,0 +1,8 @@
+{
+  "env_vars": {
+    "DEFAULT_LLM_PROVIDER": "qwen",
+    "DEFAULT_LLM_MODEL_NAME": "qwen-max",
+    "DEFAULT_LLM_API_KEY": "sk-6b97924dca9f483794828c49234dae63"
+  },
+  "updated_at": "2026-01-07T19:06:11.768268"
+}

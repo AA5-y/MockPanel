@@ -1,0 +1,316 @@
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'assistant'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent assistant with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_assistant_threads__1_jsezz
+Registered mod adapter ThreadMessagingAgentAdapter with agent assistant
+Updated available tools for agent assistant: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'assistant' from assistant.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent assistant
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+Cleaning up MCP clients
+Agent assistant disconnected from gRPC network
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'assistant'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent assistant with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_assistant_threads_bui3xaqj
+Registered mod adapter ThreadMessagingAgentAdapter with agent assistant
+Updated available tools for agent assistant: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'assistant' from assistant.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent assistant
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+Cleaning up MCP clients
+Agent assistant disconnected from gRPC network
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'csprof'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent csprof with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_csprof_threads_wtbr3k8p
+Registered mod adapter ThreadMessagingAgentAdapter with agent csprof
+Updated available tools for agent csprof: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'csprof' from csprof.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent csprof
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+Cleaning up MCP clients
+Agent csprof disconnected from gRPC network
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'csprof'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent csprof with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_csprof_threads_yzq4u8nz
+Registered mod adapter ThreadMessagingAgentAdapter with agent csprof
+Updated available tools for agent csprof: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'csprof' from csprof.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent csprof
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+Cleaning up MCP clients
+Agent csprof disconnected from gRPC network
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'csprof'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent csprof with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_csprof_threads_rw58lobb
+Registered mod adapter ThreadMessagingAgentAdapter with agent csprof
+Updated available tools for agent csprof: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'csprof' from csprof.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent csprof
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'designprof'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent designprof with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_designprof_threads_ir4yfn7h
+Registered mod adapter ThreadMessagingAgentAdapter with agent designprof
+Updated available tools for agent designprof: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'designprof' from designprof.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent designprof
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'mechprof'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent mechprof with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_mechprof_threads_9qvsfw0a
+Registered mod adapter ThreadMessagingAgentAdapter with agent mechprof
+Updated available tools for agent mechprof: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'mechprof' from mechprof.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent mechprof
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'metaassistant'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent metaassistant with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_metaassistant_threads_hdlue3tu
+Registered mod adapter ThreadMessagingAgentAdapter with agent metaassistant
+Updated available tools for agent metaassistant: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'metaassistant' from metaassistant.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent metaassistant
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'trollprof'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent trollprof with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_trollprof_threads_cjxsve76
+Registered mod adapter ThreadMessagingAgentAdapter with agent trollprof
+Updated available tools for agent trollprof: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'trollprof' from trollprof.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent trollprof
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+Processed 1 enabled mods: ['openagents.mods.workspace.messaging']
+Creating openagents.agents.collaborator_agent.CollaboratorAgent instance with ID 'xdisciplineprof'
+Successfully loaded mod adapter: openagents.mods.workspace.messaging
+Instantiated adapter for openagents.mods.workspace.messaging (no args)
+Initializing Thread Messaging protocol for agent xdisciplineprof with file storage at C:\Users\13299\AppData\Local\Temp\openagents_agent_xdisciplineprof_threads_68u0kaii
+Registered mod adapter ThreadMessagingAgentAdapter with agent xdisciplineprof
+Updated available tools for agent xdisciplineprof: ['send_direct_message', 'send_channel_message', 'reply_channel_message', 'list_channels', 'retrieve_channel_messages', 'retrieve_direct_messages', 'react_to_message']
+Successfully loaded openagents.agents.collaborator_agent.CollaboratorAgent 'xdisciplineprof' from xdisciplineprof.yaml
+Detected network: MultiAgentChatroom (default-network-1)
+Transport: grpc, Host: localhost, Port: 8600
+Creating gRPC connector for agent xdisciplineprof
+Connecting to gRPC server at localhost:8600
+Connected to gRPC network successfully
+Supported mod: openagents.mods.workspace.messaging (v1.0.0)
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Retrying request to /chat/completions in 0.422409 seconds
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Retrying request to /chat/completions in 0.482495 seconds
+Retrying request to /chat/completions in 0.454415 seconds
+Retrying request to /chat/completions in 0.386424 seconds
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Retrying request to /chat/completions in 0.389672 seconds
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Retrying request to /chat/completions in 0.469261 seconds
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Retrying request to /chat/completions in 0.492052 seconds
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Retrying request to /chat/completions in 0.453054 seconds
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Retrying request to /chat/completions in 0.433253 seconds
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Error executing tool retrieve_channel_messages: Expecting value: line 1 column 69 (char 68)
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Error executing tool retrieve_direct_messages: Expecting value: line 1 column 88 (char 87)
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Error executing tool retrieve_direct_messages: Expecting value: line 1 column 87 (char 86)
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Error executing tool retrieve_direct_messages: Expecting value: line 1 column 83 (char 82)
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Error executing tool retrieve_direct_messages: Expecting value: line 1 column 78 (char 77)
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Error executing tool retrieve_direct_messages: Expecting value: line 1 column 85 (char 84)
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Error executing tool retrieve_channel_messages: Expecting value: line 1 column 69 (char 68)
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Retrying request to /chat/completions in 0.471358 seconds
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+Retrying request to /chat/completions in 0.838464 seconds
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"

@@ -1,0 +1,24 @@
+{
+  "CleverHelper2971_1767785727922_a3jivdb6c": {
+    "event_name": "thread.channels.list",
+    "source_id": "CleverHelper2971",
+    "event_id": "CleverHelper2971_1767785727922_a3jivdb6c",
+    "timestamp": 1767785727,
+    "source_type": "agent",
+    "destination_id": "mod:openagents.mods.workspace.messaging",
+    "relevant_mod": null,
+    "requires_response": false,
+    "response_to": null,
+    "thread_name": null,
+    "payload": {
+      "action": "list_channels",
+      "message_type": "channel_info"
+    },
+    "metadata": {},
+    "text_representation": null,
+    "visibility": "network",
+    "allowed_agents": null,
+    "secret": "Otqv7fTpVGI1Upasia9QKbWlgN29RrPoX01hjCkYo0X5D6e41gRN9zFEdjzm8aKw",
+    "source_agent_group": "guest"
+  }
+}
