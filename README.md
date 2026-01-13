@@ -120,9 +120,7 @@ MockPanel/
 │   ├── csprof.yaml          # CS/AI评委
 │   ├── xdisciplineprof.yaml # 交叉学科评委
 │   ├── trollprof.yaml       # 插科打诨评委
-│   ├── metaassistant.yaml   # 综合分析助手
-│   ├── assistant.yaml        # 基础助手
-│   └── critic.yaml           # 评论者
+│   └── metaassistant.yaml   # 综合分析助手
 ├── network.yaml              # 网络和agent注册配置
 ├── config/                   # 全局配置
 ├── logs/                     # 系统日志

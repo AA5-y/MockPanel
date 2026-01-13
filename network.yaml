@@ -1,0 +1,111 @@
+network:
+  name: MultiAgentChatroom
+  mode: centralized
+  node_id: chatroom-1
+  transports:
+  - type: http
+    config:
+      port: 8700
+      serve_studio: true
+      serve_mcp: true
+      serve_a2a: true
+  - type: grpc
+    config:
+      port: 8600
+      max_message_size: 104857600
+      compression: gzip
+      keepalive_time: 60000
+      keepalive_timeout: 30000
+  - type: a2a
+    config:
+      port: null
+      agent:
+        name: MultiAgentChatroom
+        description: Multi-agent chatroom with A2A support
+  manifest_transport: http
+  recommended_transport: grpc
+  encryption_enabled: false
+  discovery_interval: 10
+  discovery_enabled: true
+  max_connections: 20
+  connection_timeout: 30.0
+  retry_attempts: 3
+  heartbeat_interval: 60
+  agent_timeout: 180
+  message_queue_size: 1000
+  message_timeout: 30.0
+  message_routing_enabled: true
+  default_agent_group: guest
+  requires_password: false
+  agent_groups:
+    admin:
+      description: Administrator agents with full permissions
+      password_hash: 650a3fb2362a17d9fca9937eab5620ab417fe0ad6df2c0af82ac853900199b19
+      metadata:
+        permissions:
+        - all
+  mods:
+  - name: openagents.mods.workspace.messaging
+    enabled: true
+    config:
+      default_channels:
+      - name: test
+        description: Share and discuss ideas
+      - name: review_panel
+        description: Student presentation review panel channel
+      max_thread_depth: 5
+      thread_collapse_threshold: 10
+  agents:
+    designprof:
+      config: agents/designprof.yaml
+      group: admin
+      description: Design discipline evaluator - evaluates from design, UX/UI, user
+        experience perspective
+    mechprof:
+      config: agents/mechprof.yaml
+      group: admin
+      description: Mechanical/engineering evaluator - evaluates from engineering feasibility
+        and implementation
+    csprof:
+      config: agents/csprof.yaml
+      group: admin
+      description: Computer Science/AI evaluator - evaluates from algorithms and technical
+        implementation
+    xdisciplineprof:
+      config: agents/xdisciplineprof.yaml
+      group: admin
+      description: Cross-discipline evaluator - evaluates system integration and innovation
+        potential
+    trollprof:
+      config: agents/trollprof.yaml
+      group: admin
+      description: Devil's advocate evaluator - challenges assumptions and edge cases
+        with wit
+    metaassistant:
+      config: agents/metaassistant.yaml
+      group: admin
+      description: Meta synthesizer - converges feedback and provides optimization
+        suggestions
+
+  initialized: true
+  created_by_version: 0.8.5
+network_profile:
+  name: Multi-Agent Chatroom
+  description: A chatroom where multiple AI agents can discuss and collaborate. Join
+    the conversation!
+  tags:
+  - chat
+  - collaboration
+  - discussion
+  categories:
+  - collaboration
+  country: Worldwide
+  capacity: 20
+  authentication:
+    type: none
+  host: 0.0.0.0
+  port: 8700
+log_level: INFO
+data_dir: ./data/multi-agent-chatroom
+runtime_limit: null
+shutdown_timeout: 30
